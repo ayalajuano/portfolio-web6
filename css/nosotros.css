@@ -1,0 +1,33 @@
+#menunos{
+	float:left;
+	margin-top:36px;
+	width:915px;
+	height:624px;
+	background: url(../Images/menunos.png) center no-repeat;
+	border-radius:10px;
+	position:relative;
+	z-index: 1;
+	}
+#btnos{
+	margin-left:132px;
+	position:absolute;
+	font-family: MAFT;
+	color: #5d3614;
+	}
+.btnos{
+	float:left;
+	margin-left:10px;
+	background-color: #f2e2be;
+	height:115px;
+	width:205px;
+	padding-top: 20px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 1.5em;
+	transition: all 0.5s ease;
+	}
+.btnos:hover{
+cursor:pointer;
+background-color: #5d3614;
+color: #fff;
+	}

@@ -1,0 +1,73 @@
+/*CONTAINERcontact*/
+#fondocont{
+	float:left;
+	background: url(../Images/fondocontacto.png) center no-repeat;
+	width:980px;
+	height:539px;
+	position:relative;
+	top:-25px;
+}
+#backgroundcontainercon{
+width: 95%;
+padding: 25px;
+background-color:#4b290e;
+float:left;
+height:489px;
+position:relative;
+top:-31px;
+border-radius:10px;
+}
+.btncont0{
+margin-top:132px;
+margin-left:80px;
+padding-top:50px;
+height:86px;
+width: 250px;
+background: url(../Images/btncontact.png) center no-repeat;
+position:absolute;
+}
+.btncont1{
+margin-top:147px;
+margin-left: 355px;
+height:60px;
+width: 250px;
+padding-top:50px;
+background-color: #edccd9;
+border: 2px solid #d98ead;
+border-radius: 10px;
+position:absolute;
+}
+.btncont2{
+margin-top:134px;
+margin-left:635px;
+padding-top:60px;
+height:76px;
+width: 250px;
+background: url(../Images/btncontact2.png) center no-repeat;
+}
+
+#subtncon{
+margin-left:190px;
+	}
+ul li .btncont{
+margin-top: 15px;
+margin-left: 25px;
+float:left;
+height:80px;
+width: 250px;
+padding-top:30px;
+background-color: #edccd9;
+border: 2px solid #d98ead;
+border-radius: 10px;
+}
+.titcon{
+	font-family: MAFT;
+	text-align: center;
+	font-size: 1.2em;
+}
+.titcon2{
+	font-family: MAFT;
+	text-align: center;
+	font-size: 1em;
+}
+/*FinalContainer*/

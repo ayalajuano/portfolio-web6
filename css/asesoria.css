@@ -1,0 +1,22 @@
+#menuizq{
+	float:left;
+	width:262px;
+	height:642px;
+	background: url(../Images/menuas.png) center no-repeat;
+	background-color: #fff;
+	border-radius:10px;
+	}
+.titas{
+	float:left;
+	margin-left:70px;
+	font-size: 1.5em;
+	font-weight:bold;
+}
+#menuder{
+	float:left;
+	margin-left:10px;
+	width:642px;
+	height:642px;
+	background-color: #fff;
+	border-radius:10px;
+	}
